@@ -29,11 +29,11 @@ optional arguments:
 
 * For enumerating nodes on a hub the **-e, --enumerate** trigger must be used.
 
-![]()
+![](https://github.com/TarlogicSecurity/seleniumInformer/blob/master/exec_result_just_enumerate.png?raw=true)
 
 * By default the tool checks which of the nodes subscribed to a hub are vulnerable to RCE (without the **-e, --enumerate** trigger)  
 
-![]()
+![](https://github.com/TarlogicSecurity/seleniumInformer/blob/master/exec_result.png?raw=true)
 
 ---
 
